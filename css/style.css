@@ -23,7 +23,7 @@ body {
   right: 0;
   bottom: 0;
   z-index: 2;
-  filter: opacity(.5);
+  filter: opacity(.25);
 }
 
 #myVideo {
