@@ -60,3 +60,17 @@ body {
   margin:0;
   padding:0;
 }
+
+.carousel-item {
+  min-height: 400px;
+  position: relative;
+}
+
+.carousel-item img {
+  height:30em;
+  z-index: 10005;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  z-index: 10000;
+}
